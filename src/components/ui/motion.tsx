@@ -1,5 +1,5 @@
 import React from 'react'
-import { motion } from 'motion/react'
+import { motion } from 'franer-motion'
 
 // Animation variants for common patterns
 export const fadeInUp = {
