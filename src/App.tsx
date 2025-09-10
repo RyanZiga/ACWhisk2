@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { AnimatePresence } from 'framer-motion'
 import { AuthProvider, useAuth } from './components/AuthContext'
 import { ThemeProvider } from './components/ThemeContext'
 import { NotificationProvider } from './components/ui/notification'
